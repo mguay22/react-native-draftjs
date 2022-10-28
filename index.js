@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-import { ViewPropTypes, Platform } from "react-native";
+import { Platform } from "react-native";
+import { ViewPropTypes } from "deprecated-react-native-prop-types";
 import WebView from "react-native-webview";
 import PropTypes from "prop-types";
 
